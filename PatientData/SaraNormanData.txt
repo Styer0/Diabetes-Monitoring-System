@@ -1,0 +1,7 @@
+Sara Norman, 5344-9709, Dr. Jason Rosenberg, 579-0432, 80, 140
+2024-04-08, 102, Normal
+2024-04-11, 100, Normal
+2024-04-11, 79, Have the flu
+2024-04-11, 120, Normal
+2024-04-11, 120, Normal
+2024-04-11, 100, Normal
